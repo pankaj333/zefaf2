@@ -262,7 +262,8 @@ ul.images-box{ text-align:center;}
 .right-sidebar .columns{ float:none;}
 .left-sidebar a.jewellery{background-size:auto 75%;}
 .left-sidebar a.beauty{ background-position:12px 5px; background-size:auto 65%;} 
-.left-sidebar a.thobe-tuxedo,.left-sidebar a.barber-shop,.left-sidebar a.invitation-cards{ background-position:12px 5px; background-size:auto 80%!important;} 
+.left-sidebar a.thobe-tuxedo,.left-sidebar a.invitation-cards{ background-position:12px 5px; background-size:auto 60%!important;} 
+.left-sidebar a.barber-shop{ background-position:12px 5px;background-size:auto 80%!important;}
 .right-sidebar img{ display:block; margin:2px auto 10px; max-width:240px;}
 .three-images .large-4{ float:none; width:94%; padding:0;}
 .three-images .large-4 img{ display:block; margin:0 auto 15px; max-width:300px; width:75%;}
